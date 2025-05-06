@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### 1. Distribuição de Gols por Mandante e Visitante  
 O boxplot abaixo mostra a distribuição de gols marcados pelo mandante versus visitante. Observa-se uma vantagem clara para o mandante, cuja mediana de gols é consistentemente mais alta.  
 
-![Distribuição de Gols](./assets/output_1.png)
+![Distribuição de Gols](./assets/output_2.png)
 
 ---
 
